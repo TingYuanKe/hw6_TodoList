@@ -1,0 +1,17 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "A todolist practice",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "prelude0390@hotmail.com"
+  },
+  "author": "TingYuanKe",
+  "license": "ISC"
+}
